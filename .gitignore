@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / local Python files
+__pycache__/
+*.py[cod]
+*$py.class
+._*
+
