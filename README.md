@@ -4,4 +4,4 @@ A collaborative attempt to translate the language-specific code samples and advi
 
 ## Translations
 
-* Python
+* [Python](python/PYTHON.md)
