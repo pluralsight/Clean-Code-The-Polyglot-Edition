@@ -5,3 +5,7 @@ A collaborative attempt to translate the language-specific code samples and advi
 ## Translations
 
 * [Python](python/PYTHON.md)
+
+## Other External (to Pluralsight) Translations
+
+* [JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) (by Ryan McDermott)
